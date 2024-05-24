@@ -74,13 +74,15 @@ ul {
 .container-blu {
     background-color: rgb(7, 7, 112);
     height: 300px;
+    width: 1632px;
+    margin-left: -216px;
 }
 
 .box-rosa {
     height: 200px;
     width: 721px;
     background-color: pink;
-    margin-left: 472px;
+    margin-left: 450px;
     margin-top: 50px;
 }
 
@@ -89,12 +91,38 @@ ul {
 .col-blu-lg {
     width: 70%;
     background-color: skyblue;
-    height: 200px;
+    height: 400px;
+    margin-top: 40px;
 
 }
 
 .col-rosa-sm {
     width: 30%;
     background-color: pink;
-    height: 200px;
+    height: 400px;
+    margin-top: 40px;
+}
+
+.container-grigio {
+    background-color: lightgray;
+    height: 500px;
+    width: 1632px;
+    margin-left: -216px;
+    margin-top: 40px;
+}
+
+.col-rosa-specchio {
+    width: 30%;
+    background-color: pink;
+    height: 400px;
+    margin-top: 40px;
+
+}
+
+.col-blu-specchio {
+    width: 70%;
+    background-color:skyblue;
+    height: 400px;
+    margin-top: 40px;
+
 }
