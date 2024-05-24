@@ -4,3 +4,64 @@
     box-sizing: border-box;
 
 }
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    max-width: 100%;
+    background-color: skyblue;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container{
+    margin-top: 40px;
+}
+
+.col-25 {
+    width: 25px;
+    background-color: orange;
+    height: 30px;
+    border: 2px black dashed;
+    text-align: left;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+li {
+    line-height: ;
+}
+
+.col-logo {
+    width: 25%;
+    background-color: orange;
+    height: 30px;
+    border: 2px black dashed;
+    text-align: left;
+}
+
+
+.col-lista {
+    width: 50%;
+    background-color: orange;
+    height: 30px;
+    border: 2px black dashed;
+    text-align: center;
+}
+
+.col-login {
+    width: 25%;
+    background-color: orange;
+    height: 30px;
+    border: 2px black dashed;
+    text-align: right;
+}
