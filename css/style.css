@@ -126,3 +126,11 @@ ul {
     margin-top: 40px;
 
 }
+
+.col-verde {
+    width: 1200px;
+    height: 600px;
+    background-color: green;
+    margin-top: 40px;
+    margin-left: 216px;
+}
