@@ -45,9 +45,6 @@ ul {
     justify-content: space-around;
 }
 
-li {
-    line-height: ;
-}
 
 .col-logo {
     width: 25%;
@@ -72,4 +69,8 @@ li {
     height: 30px;
     border: 2px black dashed;
     text-align: right;
+}
+
+.container-blu {
+
 }
