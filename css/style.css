@@ -83,3 +83,18 @@ ul {
     margin-left: 472px;
     margin-top: 50px;
 }
+
+
+
+.col-blu-lg {
+    width: 70%;
+    background-color: skyblue;
+    height: 200px;
+
+}
+
+.col-rosa-sm {
+    width: 30%;
+    background-color: pink;
+    height: 200px;
+}
