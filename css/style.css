@@ -84,6 +84,7 @@ ul {
     background-color: pink;
     margin-left: 450px;
     margin-top: 50px;
+    border: 2px black dashed
 }
 
 
@@ -93,6 +94,7 @@ ul {
     background-color: skyblue;
     height: 400px;
     margin-top: 40px;
+    border: 2px black dashed
 
 }
 
@@ -101,6 +103,7 @@ ul {
     background-color: pink;
     height: 400px;
     margin-top: 40px;
+    border: 2px black dashed
 }
 
 .container-grigio {
@@ -116,6 +119,7 @@ ul {
     background-color: pink;
     height: 400px;
     margin-top: 40px;
+    border: 2px black dashed
 
 }
 
@@ -133,6 +137,7 @@ ul {
     background-color: green;
     margin-top: 40px;
     margin-left: 216px;
+    border: 2px black dashed
 }
 
 .container-scuro {
@@ -152,11 +157,45 @@ ul {
 .col-rosa {
     background-color: pink;
     height: 450px;
+    border: 2px black dashed
 }
 
 .col-green {
     background-color: green;
     width: 20px; 
     height: 450px;
+}
+
+footer {
+    background-color: rgb(74, 74, 74);
+    height: 70px;
+}
+
+.col-button {
+width: 1200px;
+height: 50px;
+background-color: aquamarine;
+margin-top: 10px;
+margin-bottom: 10px;
+
+}
+
+#logo {
+    text-align: left;
+    border: 2px black dashed;
+    background-color: salmon;
+    margin: 20px 0;
+    float: left;
+    text-align: center;
+    
+}
+
+#bottone {
+    text-align: right;
+    border: 2px black dashed;
+    background-color: salmon;
+    float: right;
+    margin: 20px 0;
+    text-align: center;
 }
 
