@@ -105,7 +105,7 @@ ul {
 
 .container-grigio {
     background-color: lightgray;
-    height: 500px;
+    height: 685px;
     width: 1632px;
     margin-left: -216px;
     margin-top: 40px;
@@ -134,3 +134,24 @@ ul {
     margin-top: 40px;
     margin-left: 216px;
 }
+
+.container-scuro {
+    background-color: rgb(74, 74, 74);
+    height: 500px;
+    width: 1632px;
+    margin-left: -216px;
+}
+
+.row-rosa {
+    padding: 20px 0;
+    width: 550px;
+    padding-left: 216px;
+    height: 400px;
+}
+
+.col-rosa {
+    background-color: pink;
+    height: 450px;
+}
+
+
