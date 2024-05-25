@@ -154,4 +154,9 @@ ul {
     height: 450px;
 }
 
+.col-green {
+    background-color: green;
+    width: 20px; 
+    height: 450px;
+}
 
